@@ -18,8 +18,9 @@ Simple to use:
 Tested on windows 7, 10 and 11 with Python 3.12.  
 
 Notes:  
-There is a list of directories names to 'ignore' while traversing the directories.  
+There is a list of directory names to 'ignore' while traversing the directories.  
 It can be edited. Search for 'IGNORE_LIST' in the source code.  
+Currently the list to ignore is: IGNORE_LIST = ['.git', '__pycache__', '.mypy_cache', '.vscode']  
   
 Based on:   
 Core ASCII Tree Generation module is from the repository at,  
