@@ -9,7 +9,7 @@ Also very useful when trying to find 'lost items' or where you 'stashed' files i
 ## Usage:
 Get the single source file and run it anywhere Python 3.12+ is installed. No other dependencies.  
   
-##Simple to use:  
+## Simple to use:  
 1) Select the directory to generate a tree view of.  
 2) Select the maximum number of levels to traverse.  
 3) Press the 'Generate' button.  
@@ -17,12 +17,12 @@ Get the single source file and run it anywhere Python 3.12+ is installed. No oth
    
 Tested on windows 7, 10 and 11 with Python 3.12.  
 
-##Notes:  
+## Notes:  
 There is a list of directory names to 'ignore' while traversing the directories.  
 It can be edited. Search for 'IGNORE_LIST' in the source code.  
 Currently the default ignore list is: `IGNORE_LIST = ['.git', '__pycache__', '.mypy_cache', '.vscode']`  
   
-##Based on:   
+## Based on:   
 Core ASCII Tree Generation module is from the repository at,  
 https://github.com/BELECTRON13/dir-tree-generator    
 Reworked some errors in it and extended it for use here.  
