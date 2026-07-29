@@ -1,1 +1,3 @@
-
+Built and tested on Python 3.12 and Windows 7, 10, 11 as of July 2026.  
+The GUI uses TkInter which should be included in the python download.  
+No Other packages required.  
