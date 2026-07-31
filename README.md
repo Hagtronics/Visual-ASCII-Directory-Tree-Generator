@@ -7,7 +7,8 @@ Also very useful when trying to find 'lost items' or where you 'stashed' files i
 ![Screenshot](/images/screen_shot_2.PNG)  
 
 ## Usage:
-Get the single source file and run it anywhere Python 3.12+ is installed. No other dependencies.  
+Get the single source file and run it anywhere Python 3.12+ and ttkbootstrap is installed.  
+(see the requirements.txt in the src directory)  
   
 ## Simple to use:  
 1) Select the directory to generate a tree view of.  
