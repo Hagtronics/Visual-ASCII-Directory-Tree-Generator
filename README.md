@@ -7,7 +7,7 @@ Also very useful when trying to find 'lost items' or where you 'stashed' files i
 ![Screenshot](/images/screen_shot_2.PNG)  
 
 ## Usage:
-Get the single source file and run it anywhere Python 3.12+ and ttkbootstrap is installed.  
+Get the single source file and run it anywhere Python 3.12+ and ttkbootstrap are installed.  
 (see the requirements.txt in the src directory)  
   
 ## Simple to use:  
@@ -31,5 +31,5 @@ Overall it works very well. Thanks Mohammad!  :-)
 Original license is MIT - Copyright (c) 2025 mohammadali  
 https://github.com/BELECTRON13/dir-tree-generator/blob/main/LICENSE  
 
-The rest of the GUI code, etc. is freeware.  
+The rest of the GUI code, etc. here is freeware.  
   
