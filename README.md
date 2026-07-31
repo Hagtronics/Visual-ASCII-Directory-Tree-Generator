@@ -4,7 +4,7 @@ A Python3/Tkinter app that generates ASCII directory tree views suitable for doc
 Also very useful when trying to find 'lost items' or where you 'stashed' files in your project directories.  
   
 ## Screenshot:  
-![Screenshot](/images/screen_shot.PNG)  
+![Screenshot](/images/screen_shot_2.PNG)  
 
 ## Usage:
 Get the single source file and run it anywhere Python 3.12+ is installed. No other dependencies.  
