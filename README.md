@@ -13,7 +13,9 @@ Get the single source file and run it anywhere Python 3.12+ and ttkbootstrap are
 ## Simple to use:  
 1) Select the maximum number of levels to traverse.  
 2) Select the folder to generate a tree view of, tree generation starts automatically.  
-3) Press the 'Copy To Clipboard' button to place the generated tree on the clipboard.  
+3) Press the 'Copy To Clipboard' button to place the generated tree on the clipboard.
+Note: If you want to change the levels to traverse, just select a new number and then  
+re-select the same folder again. A new Tree will be generated.  
    
 Tested on windows 7, 10 and 11 with Python 3.12.  
 
