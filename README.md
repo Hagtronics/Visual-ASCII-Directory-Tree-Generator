@@ -1,5 +1,5 @@
-# Visual-ASCII-Directory-Tree-Generator
-A Python3/Tkinter app that generates ASCII directory tree views suitable for documentation. 
+# Visual ASCII Folder Tree Generator
+A Python3/Tkinter Windows app that generates ASCII folder tree views suitable for documentation. 
   
 Also very useful when trying to find 'lost items' or where you 'stashed' files in your project directories.  
   
@@ -8,18 +8,17 @@ Also very useful when trying to find 'lost items' or where you 'stashed' files i
 
 ## Usage:
 Get the single source file and run it anywhere Python 3.12+ and ttkbootstrap are installed.  
-(see the requirements.txt in the src directory)  
+(see the requirements.txt in the src folder)  
   
 ## Simple to use:  
-1) Select the directory to generate a tree view of.  
-2) Select the maximum number of levels to traverse.  
-3) Press the 'Generate' button.  
-4) Press the 'Copy To Clipboard' button to place the generated tree on the clipboard.  
+1) Select the maximum number of levels to traverse.  
+2) Select the folder to generate a tree view of, tree generation starts automatically.  
+3) Press the 'Copy To Clipboard' button to place the generated tree on the clipboard.  
    
 Tested on windows 7, 10 and 11 with Python 3.12.  
 
 ## Notes:  
-There is a list of directory names to 'ignore' while traversing the directories.  
+There is a list of folder names to 'ignore' while traversing the directories.  
 It can be edited. Search for 'IGNORE_LIST' in the source code.  
 Currently the default ignore list is: `IGNORE_LIST = ['.git', '__pycache__', '.mypy_cache', '.vscode']`  
   
