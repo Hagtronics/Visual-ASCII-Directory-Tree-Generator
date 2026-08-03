@@ -4,7 +4,7 @@ A Python3.12 / TTKinter Windows app that generates ASCII folder tree views suita
 Also very useful when trying to find 'lost items' or where you 'stashed' files in your project directories.  
   
 ## Screenshot:  
-![Screenshot](/images/screen_shot.PNG)  
+![Screenshot](/images/screen_shot.png)  
 
 ## Usage:
 Get the single source file and run it anywhere Python 3.12+ installed.  
