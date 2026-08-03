@@ -1,4 +1,5 @@
-# Visual ASCII Folder Tree Generator
+# Visual ASCII Folder Tree Generator  
+## AKA: Visual ASCII Directory Tree Generator  
 A Python3.12 / TTKinter Windows app that generates ASCII folder tree views suitable for documentation. 
   
 Also very useful when trying to find 'lost items' or where you 'stashed' files in your project directories.  
